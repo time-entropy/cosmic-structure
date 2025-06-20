@@ -33,4 +33,5 @@ Quantized-Elastic Spacetime Model:
 
 
 more details on https://cosmoquanta.com/
+
 https://doi.org/10.5281/zenodo.14788393

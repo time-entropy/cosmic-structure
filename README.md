@@ -1,4 +1,4 @@
-Quantized-Elastic Spacetime Model: 
+### Quantized-Elastic Spacetime Model: 
 
 1. Basic Sets of the model
 1 Basic set:
